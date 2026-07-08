@@ -211,13 +211,13 @@ Visualizations
 
 Example:
 
-Executive Overview
+Executive Overview(Link="https://github.com/kiran21-bi/Sales-Performance-Business-Insights-Dashboard-/blob/main/Executive%20Overview.png")
 
-Product Analysis
+Product Analysis(Link="")
 
-Customer Analysis
+Customer Analysis(Link="")
 
-Regional Analysis
+Regional Analysis(Link="")
 
 ---
 

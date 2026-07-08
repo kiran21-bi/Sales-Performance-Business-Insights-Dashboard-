@@ -215,7 +215,7 @@ Executive Overview(Link="https://github.com/kiran21-bi/Sales-Performance-Busines
 
 Product Analysis(Link="https://github.com/kiran21-bi/Sales-Performance-Business-Insights-Dashboard-/blob/main/Product%20Analysis.png")
 
-Customer Analysis(Link="")
+Customer Analysis(Link="https://github.com/kiran21-bi/Sales-Performance-Business-Insights-Dashboard-/blob/main/Customer%20Analysis.png")
 
 Regional Analysis(Link="")
 
